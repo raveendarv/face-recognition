@@ -46,4 +46,4 @@ face_landmarks_list = face_recognition.face_landmarks(image)
 ```
 
 ## Great work:
-		* [Adam Geitgey](https://github.com/ageitgey)
+* [Adam Geitgey](https://github.com/ageitgey)
